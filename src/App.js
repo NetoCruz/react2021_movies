@@ -1,9 +1,9 @@
 import React from 'react';
 //styles
 import { GlobalStyle } from './GlobalsStyles'
-//styles
+//Components
 import Header from './components/Header/index';
-
+import Home from './components/Home'
 function App() {
   return (
     <div className="App">
@@ -11,6 +11,7 @@ function App() {
       https://www.youtube.com/watch?v=nTeuhbP7wdE
       56:20
       <Header/>
+      <Home/>
       <GlobalStyle/>
     </div>
   );
