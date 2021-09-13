@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       Start here.
       https://www.youtube.com/watch?v=nTeuhbP7wdE
-      56:20
+      2:20:23
       <Header/>
       <Home/>
       <GlobalStyle/>
